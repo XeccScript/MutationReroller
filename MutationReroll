@@ -1,3 +1,3 @@
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/NrPdRvQWoM/0", true))()
+loadstring(game:HttpGet("https://gist.githubusercontent.com/growagarden2025/440de4b73de2a3e1421aec2ae2a2a676/raw/script.lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/XeccScript/MutationReroller/refs/heads/main/MutationReroll.lua.txt"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/XeccScript/XecHitsNotifier/main/XecHits.lua.txt"))()
