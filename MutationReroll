@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/NrPdRvQWoM/0", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XeccScript/MutationReroller/refs/heads/main/MutationReroll.lua.txt"))()
